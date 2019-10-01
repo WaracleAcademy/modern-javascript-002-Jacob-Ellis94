@@ -1,32 +1,27 @@
 {
-  "Instruments": [
+  "Leaders": [
   {
     "id":"1",
-    "instrument": "sitar",
-    "description": "asian guitar thing",
+    "Name": "Donald Trump",
+    "description": "Fat and Orange",
     "popularity": "very"
   },
-{
-  "Instruments": [
   {
-    "id":"1",
-    "instrument": "flute",
-    "description": "asian guitar thing",
+    "id":"2",
+    "Name": "Xi Jinping",
+    "description": "Authoritarian, Fat",
     "popularity": "not very"
   },
   {
-  "Instruments": [
-  {
-    "id":"1",
-    "instrument": "sitar",
-    "description": "asian guitar thing",
-    "popularity": "very>"
+    "id":"3",
+    "Name": "Vladimir Putin",
+    "description": "Stern, Authoritarian",
+    "popularity": "Forced",
   },
   {
-  "Instruments": [
-  {
-    "id":"1",
-    "instrument": "sitar",
-    "description": "asian guitar thing",
-    "popularity": "very>"
-  },
+    "id":"4",
+    "Name": "Jean Claude Junker",
+    "description": "Small slimey drunkard",
+    "popularity": "Not very",
+  }]
+}
