@@ -1,5 +1,4 @@
 export function render(htmlContent){
-  const = things['Donald Trump', 'Xi Jinping', 'Vladimir Putin', 'Jean Claude Junker'];
   const mainView = document.querySelector('#primaryView');
   mainView.innerHTML = htmlContent;
 }

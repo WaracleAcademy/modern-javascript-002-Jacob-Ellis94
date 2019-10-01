@@ -1,0 +1,23 @@
+{
+  "name": "world-leaders",
+  "version": "1.0.0",
+  "description": "A Base Repository to store work done for the Digital Academy Modern JavaScript 002 course",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WaracleAcademy/modern-javascript-002-Jacob-Ellis94.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WaracleAcademy/modern-javascript-002-Jacob-Ellis94/issues"
+  },
+  "homepage": "https://github.com/WaracleAcademy/modern-javascript-002-Jacob-Ellis94#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.3"
+  }
+}

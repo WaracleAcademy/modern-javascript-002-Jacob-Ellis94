@@ -1,0 +1,6 @@
+
+
+
+const thing = {
+  property: 'test'
+};
