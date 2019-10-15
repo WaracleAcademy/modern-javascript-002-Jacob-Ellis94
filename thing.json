@@ -16,12 +16,20 @@
     "id":"3",
     "Name": "Vladimir Putin",
     "description": "Stern, Authoritarian",
-    "popularity": "Forced",
+    "popularity": "Forced"
   },
   {
     "id":"4",
     "Name": "Jean Claude Junker",
     "description": "Small slimey drunkard",
-    "popularity": "Not very",
-  }]
+    "popularity": "Not very"
+  },
+  {
+    "id":"5",
+    "Name": "Boris Johnson",
+    "description": "Bumbling Idiot",
+    "popularity": "Very much debatable"
+  }
+]
 }
+
