@@ -3,25 +3,25 @@
   {
     "id":"1",
     "Name": "Donald Trump",
-    "description": "Fat and Orange",
-    "popularity": "very"
+    "description": "The very best leader the world has ever seen",
+    "popularity": "The very very very best"
   },
   {
     "id":"2",
     "Name": "Xi Jinping",
-    "description": "Authoritarian, Fat",
-    "popularity": "not very"
+    "description": "Incredibly generous, accepting and open leader",
+    "popularity": "Godly"
   },
   {
     "id":"3",
     "Name": "Vladimir Putin",
-    "description": "Stern, Authoritarian",
-    "popularity": "Forced",
+    "description": "Selfless and giving man",
+    "popularity": "Worldwide",
   },
   {
     "id":"4",
     "Name": "Jean Claude Junker",
-    "description": "Small slimey drunkard",
-    "popularity": "Not very",
+    "description": "Incredible leader",
+    "popularity": "Exceptional",
   }]
 }
